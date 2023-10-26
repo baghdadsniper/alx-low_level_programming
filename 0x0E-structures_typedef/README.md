@@ -1,1 +1,1 @@
-dm,bvsdklns
+# c structures and typedef
